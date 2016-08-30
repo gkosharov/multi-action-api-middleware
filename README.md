@@ -4,7 +4,7 @@ Redux api middleware for dispatching simultaneous actions.
 
 ## Usage
 
-An example action creator for a descriptor of parallel actions dispatched on success
+An example action creator for a descriptor of parallel actions dispatched on success:
 
 ```
 import { CALL_API } from 'multi-action-api-middleware'
